@@ -1,6 +1,5 @@
 Hi, I’m @GolemiGniew
-I'm working towards becoming a Software Tester. Possibly a Game Tester.
-Currently I'm learning about API testing.
+I am currently a Game Tester but I look foreward to exploring wide world of Quality Assurance. 
 
 
 <!---
